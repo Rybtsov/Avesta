@@ -1,0 +1,232 @@
+body {
+    font-family: Times New Romen;
+    background: #828282; /* #c26208 или url(фон.jpg)*/
+}
+/*Шапка(ушанка)*/
+.shap{
+  color: #de5757;
+  width: 100%;
+  height: 20%;
+  max-height: 200px;
+  background-color: #454141;
+}
+.shap a{
+  float: right;
+  border:3px #828282  solid; 
+  width:160px;
+  text-decoration: none;
+  background-color: #454141;
+  font-size: 28px;
+  color: #c42727;
+  margin-top: 4%;
+  margin-right: 1%;
+  padding: 3px;
+}
+.shap a:hover {
+    color: #f00;
+}
+.forma{
+    width:25%;
+    height:30%;
+}
+.format {
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+}
+.new{
+  background: #de5757;
+  font-size: 28px;
+  height: 40px;
+}
+.novoe {
+    background-color: #454141;
+}
+.novoe img{
+  width: 30%;
+  height: 30%;
+  max-width: 500px;
+  max-height: 500px;
+  padding: 1%;
+}
+.drive {
+  transition: 1s;
+}
+.drive:hover {
+  transform: drive (1.5);
+}
+.novoe h1{
+  text-align: center;
+}/*увеличить размер шрифта*/
+.zin1{
+  margin-left: auto;
+  margin-right: auto;
+  width: 90%;
+}
+.zin2{
+  margin-left: auto;
+  margin-right: auto;
+  width: 90%;
+}
+.zin3{
+  margin-left: auto;
+  margin-right: auto;
+  width: 90%;
+}
+/*меню(не съедобное)*/
+.main{
+  
+  height: auto;
+  width: auto;
+  background-color: #454141;
+  color: #000;
+}
+/*основное(не меню)*/
+.cent{
+  color: #f00;
+  background-color: #454141;/*#784826*/
+}
+/*ассортимент*/
+.content-img{
+  height: auto;
+  width: auto;
+  max-height: 150px;
+  max-width: 150px;
+}
+.content{
+  height: auto;
+  max-height: 1000px;
+  background-color: #454141;
+}
+.content-table{
+  padding-left: 5%;
+}
+.yslyg{
+  height: auto;
+  width: auto;
+  background-color: #454141;
+}
+.ficks{
+  width: 1050px;
+  height: 400px;
+}
+.ficks td{
+  width: 500px;
+  height: 400px;
+}
+.content p{
+  text-align: left;
+  color: #c42727;
+  font-size: 56px;
+}
+.end{
+  background-color: #454141;
+}
+.end td{
+  width: 500px;
+  height: 80px;
+  border-bottom: 1px solid #000;
+}
+.end table{
+  padding: 0% 1% 1% 1%;
+}
+.end p{
+  text-align: left;
+  color: #c42727;
+  font-size: 36px;
+}
+.end h1{
+  padding: 1% 0 0 0;
+  color: #000;
+  font-size: 72px;
+}
+.end h2{
+  font-size: 40px;
+}
+h3{
+  text-align: center;
+  padding: 5% 10% 0 5%;
+}
+.shap h1{
+  padding: 3% 0 0 0;
+  color: #c42727;
+  font-size: 72px;
+}
+.content h1{
+  padding: 3% 0 0 0;
+  color: #fff;
+  font-size: 72px;
+}
+.main h1{
+  padding: 2% 0 0 0;
+  color: #c42727;
+  font-size: 72px;
+}
+.yslyg h1{
+  padding: 2% 0 0 0;
+  color: #c42727;
+  font-size: 72px;
+}
+h2{
+  font-size: 48px;
+}
+h5{
+  text-align: center;
+  padding-right: 50px;
+  font-size: 48px;
+}
+.table{
+  padding: 1% 1% 1% 1%;
+}
+.table td{
+  height: 100px;
+  width: 450px;
+}
+.imoge{
+  width: 400px;
+  height: 250px;
+}
+.nnn{
+  background-color: #000;
+  width: auto;
+  height: 50px;
+}
+.nnn p{
+  color: #fff;
+  padding-left: 3%;
+  padding-top: 1%;
+}
+#topNubex {
+  position: fixed;
+  right: 45px;
+  bottom: 45px;
+   }
+   .sidenav {
+    width: 245px;
+    position: fixed;
+    z-index: 1;
+    top: 450px;
+    left: 10px;
+    background: #c2620800;
+    overflow-x: hidden;
+    padding: 8px 0;
+  }
+    .sidenav a {
+    padding: 6px 8px 6px 16px;
+    text-decoration: none;
+    font-size: 35px;
+    color: #000;
+    display: block;
+  }
+  .sidenav a:hover {
+    color: #f00;
+  }
+  .main {
+    margin-left: 140px; /* Same width as the sidebar + left position in px */
+    font-size: 28px; /* Increased text to enable scrolling */
+    padding: 0px 10px;
+  }
+  @media screen and (max-height: 450px) {
+    .sidenav {padding-top: 15px;}
+    .sidenav a {font-size: 18px;}
+    }
