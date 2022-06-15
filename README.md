@@ -65,7 +65,7 @@
   </div>
 </div>
 
-<div class="forma" >
+<div class="forma" id="forma">
   <div class="format">
     <form method="post">
 		<span class="last_name">Фамилия</span><br>
