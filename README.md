@@ -24,7 +24,7 @@
 
 <body>
   <div class="shap">
-    <a href="index1.php">Админ</a><img src="Frame 1.svg" align="left" style="width: 250px;height: 140px;">
+    <a href="index1.php">Админ</a><img src="Frame 1.png" align="left" style="width: 250px;height: 140px;">
     <h1 align="center">Торговый комплекс Avesta</h1>
   </div>
 
