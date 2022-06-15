@@ -2,7 +2,6 @@
 <html>
 <head>
 	<meta charset="utf-8">
-	<title>Avesta</title>
 	<link rel="stylesheet" type="text/css" href="css/style.css">
   <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
   
@@ -21,15 +20,11 @@
   });
   </script>
 
-<style>
-  
-</style>
-
 </head>
 
 <body>
   <div class="shap">
-    <a href="index1.php">Авторизация</a><img src="Frame1.svg" align="left" style="width: 250px;height: 140px;">
+    <a href="index1.php">Админ</a><img src="Frame1.svg" align="left" style="width: 250px;height: 140px;">
     <h1 align="center">Торговый комплекс Avesta</h1>
   </div>
 
@@ -44,72 +39,6 @@
     <a href="#forma">Форма</a>
     <a href="#end">Контакты</a>
   </div>
-  <!--
-  <div class="content">
-    <h1 align="center">Наш магазин - это </h1>
-    <table align="center" class="content-table">
-    <tr>
-      <td><p>-Доступные цены</p></td><td><img src="Frame 2.svg" class="content-img"></td>
-    </tr>
-    <tr>
-      <td>
-        <p>-Большой выбор</p>
-      </td>
-      <td>
-        <img src="Frame 3.png" class="content-img">
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <p>-Прямые доставки</p>
-      </td>
-      <td>
-        <img src="Frame 4.png" class="content-img">
-      </td>
-    </tr>
-  </table>
-</div>-->
-<!--<div class="main" id="main">
-  <h1 align="center">Ассортимент</h1>
-  <table align="center" class="table">
-    <tr>
-      <td><h3>Электроинтрументы</h3>
-      </td>
-      <td><h3>Стройматериалы</h3>
-      </td>
-      <td><h3>Сантехника</h3>
-      </td>
-    </tr><tr>
-      <td><img src="Электро.jpg" class="imoge"></td>
-      <td><img src="Строй.png" class="imoge"></td>
-      <td><img src="сантех.jpg" class="imoge"></td>
-    </tr>
-  </table>
-
-  <table align="center" class="table">
-    <tr>
-      <td><h3>Отопление</h3></td>
-      <td><h3>Интерьер и декор</h3></td>
-      <td><h3>Освещение</h3></td>
-      </tr><tr>
-      <td><img src="ото.jpg" class="imoge"></td>
-      <td><img src="интер.jpg" class="imoge"></td>
-      <td><img src="люст.jpg" class="imoge"></td>
-    </tr>
-  </table>
-
-  <table align="center" class="table">
-    <tr>
-      <td><h3>Напольное покрытие</h3>
-      <td><h3>Двери</h3></td>
-      <td><h3>Керамическая плитка</h3></td>
-      </tr><tr>
-      <td><img src="пол.jpg" class="imoge"></td>
-      <td><img src="дверь.jpg" class="imoge"></td>
-      <td><img src="плита.jpg" class="imoge"></td>
-    </tr>
-  </table>
-</div>-->
 
 <div class="novoe" id="novoe">
   <div class="zin1">
